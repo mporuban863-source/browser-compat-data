@@ -1,5 +1,58 @@
 # @mdn/browser-compat-data release notes
 
+## [v8.1.2](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.2)
+
+September 15, 2026
+
+### Additions
+
+- `api.CSSMediaRule.matches` ([#30488](https://github.com/mdn/browser-compat-data/pull/30488))
+- `api.CSSSupportsRule.matches` ([#30488](https://github.com/mdn/browser-compat-data/pull/30488))
+- `api.IntersectionObserver.IntersectionObserver.options_trackVisibility_parameter` ([#30466](https://github.com/mdn/browser-compat-data/pull/30466))
+- `api.NotRestoredReasonDetails.reason.unload-listener` ([#30473](https://github.com/mdn/browser-compat-data/pull/30473))
+- `api.NotRestoredReasonDetails.reason.websocket` ([#30473](https://github.com/mdn/browser-compat-data/pull/30473))
+- `api.SubtleCrypto.decapsulateBits` ([#30433](https://github.com/mdn/browser-compat-data/pull/30433))
+- `api.SubtleCrypto.decapsulateKey` ([#30433](https://github.com/mdn/browser-compat-data/pull/30433))
+- `api.SubtleCrypto.encapsulateBits` ([#30433](https://github.com/mdn/browser-compat-data/pull/30433))
+- `api.SubtleCrypto.encapsulateKey` ([#30433](https://github.com/mdn/browser-compat-data/pull/30433))
+- `browsers.edge.releases.156` ([#30476](https://github.com/mdn/browser-compat-data/pull/30476))
+- `browsers.firefox_android.releases.159` ([#30525](https://github.com/mdn/browser-compat-data/pull/30525))
+- `browsers.firefox.releases.159` ([#30525](https://github.com/mdn/browser-compat-data/pull/30525))
+- `css.at-rules.supports.named-feature.anchor-position-follows-transforms` ([#30464](https://github.com/mdn/browser-compat-data/pull/30464))
+- `css.at-rules.supports.named-feature.single-axis-scroll-container` ([#30464](https://github.com/mdn/browser-compat-data/pull/30464))
+- `css.properties.background-blend-mode.color` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.color-burn` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.color-dodge` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.darken` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.difference` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.exclusion` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.hard-light` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.hue` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.lighten` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.luminosity` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.multiply` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.normal` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.overlay` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.saturation` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.screen` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.background-blend-mode.soft-light` ([#30438](https://github.com/mdn/browser-compat-data/pull/30438))
+- `css.properties.text-decoration-skip-spaces` ([#30479](https://github.com/mdn/browser-compat-data/pull/30479))
+- `css.properties.text-decoration-skip-spaces.all` ([#30479](https://github.com/mdn/browser-compat-data/pull/30479))
+- `css.properties.text-decoration-skip-spaces.end` ([#30479](https://github.com/mdn/browser-compat-data/pull/30479))
+- `css.properties.text-decoration-skip-spaces.none` ([#30479](https://github.com/mdn/browser-compat-data/pull/30479))
+- `css.properties.text-decoration-skip-spaces.start` ([#30479](https://github.com/mdn/browser-compat-data/pull/30479))
+- `css.properties.white-space.discard-after` ([#30435](https://github.com/mdn/browser-compat-data/pull/30435))
+- `css.properties.white-space.discard-before` ([#30435](https://github.com/mdn/browser-compat-data/pull/30435))
+- `css.properties.white-space.discard-inner` ([#30435](https://github.com/mdn/browser-compat-data/pull/30435))
+- `css.properties.white-space.none` ([#30435](https://github.com/mdn/browser-compat-data/pull/30435))
+
+### Statistics
+
+- 12 contributors have changed 61 files with 1,591 additions and 335 deletions in 29 commits ([`v8.1.1...v8.1.2`](https://github.com/mdn/browser-compat-data/compare/v8.1.1...v8.1.2))
+- 20,553 total features
+- 1,271 total contributors
+- 5,748 total stargazers
+
 ## [v8.1.1](https://github.com/mdn/browser-compat-data/releases/tag/v8.1.1)
 
 September 10, 2026
